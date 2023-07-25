@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/%20//Epsilen31.github.io/Shopping-Cart/static/css/main.b003fcd4.css",
-    "main.js": "/%20//Epsilen31.github.io/Shopping-Cart/static/js/main.fb2e7c82.js",
+    "main.js": "/%20//Epsilen31.github.io/Shopping-Cart/static/js/main.bd5708e1.js",
     "index.html": "/%20//Epsilen31.github.io/Shopping-Cart/index.html",
     "main.b003fcd4.css.map": "/%20//Epsilen31.github.io/Shopping-Cart/static/css/main.b003fcd4.css.map",
-    "main.fb2e7c82.js.map": "/%20//Epsilen31.github.io/Shopping-Cart/static/js/main.fb2e7c82.js.map"
+    "main.bd5708e1.js.map": "/%20//Epsilen31.github.io/Shopping-Cart/static/js/main.bd5708e1.js.map"
   },
   "entrypoints": [
     "static/css/main.b003fcd4.css",
-    "static/js/main.fb2e7c82.js"
+    "static/js/main.bd5708e1.js"
   ]
 }
